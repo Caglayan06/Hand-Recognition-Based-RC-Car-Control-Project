@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\galipozturk\desktop\görüntü işeleme\proje\dipopencv\dip\main.cpp(108): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\galipozturk\desktop\görüntü işeleme\proje\dipopencv\dip\main.cpp(109): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  dip.vcxproj -> C:\Users\galipozturk\Desktop\görüntü işeleme\proje\dipOpenCv\x64\Debug\dip.exe
